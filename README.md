@@ -3,13 +3,15 @@
 Introduction:
 Data Analysis, particularly Exploratory Data Analysis (EDA), plays a pivotal role in the realm of data science. EDA enables a comprehensive understanding of the dataset, aiding in informed decision-making. This repository showcases the application of EDA techniques using Python, utilizing a Diwali Sales dataset sourced from Kaggle. The dataset serves as an ideal foundation for conducting EDA and delving into the captivating field of data science.
 
-Project Overview:
+#Project Overview:
+
 This project encompasses the following key aspects:
 
 Data Cleaning and Data Manipulation.
 Exploratory Data Analysis (EDA) utilizing Pandas, NumPy, Matplotlib, and Seaborn libraries.
 Enhancement of customer experience by identifying potential customers based on various parameters such as state, occupation, gender, and age groups.
 Optimization of sales by recognizing the most popular product categories and items, facilitating inventory planning to meet demand effectively.
+
 
 
 Conclusion:
